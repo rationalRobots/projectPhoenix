@@ -1,0 +1,6 @@
+Name: sonar_interface
+Description: Description of sonar_interface
+Version: 0.0.0
+Cflags: -I/home/chris/ros_sauc-e/forked/projectPhoenix/Packages/install/include
+Libs: -L/home/chris/ros_sauc-e/forked/projectPhoenix/Packages/install/lib 
+Requires: 

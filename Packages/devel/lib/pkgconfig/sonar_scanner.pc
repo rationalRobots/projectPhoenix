@@ -1,0 +1,6 @@
+Name: sonar_scanner
+Description: Description of sonar_scanner
+Version: 0.0.0
+Cflags: -I/home/chris/ros_sauc-e/forked/projectPhoenix/Packages/src/sonar_scanner/include
+Libs: -L/home/chris/ros_sauc-e/forked/projectPhoenix/Packages/devel/lib 
+Requires: 
